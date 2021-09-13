@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://meekimobile.github.io/csb-opf02/static/css/main.32c58eb3.chunk.css",
+    "main.js": "https://meekimobile.github.io/csb-opf02/static/js/main.865cbeb0.chunk.js",
+    "main.js.map": "https://meekimobile.github.io/csb-opf02/static/js/main.865cbeb0.chunk.js.map",
+    "runtime-main.js": "https://meekimobile.github.io/csb-opf02/static/js/runtime-main.eb8d99d8.js",
+    "runtime-main.js.map": "https://meekimobile.github.io/csb-opf02/static/js/runtime-main.eb8d99d8.js.map",
+    "static/css/2.d9d55127.chunk.css": "https://meekimobile.github.io/csb-opf02/static/css/2.d9d55127.chunk.css",
+    "static/js/2.4703f18b.chunk.js": "https://meekimobile.github.io/csb-opf02/static/js/2.4703f18b.chunk.js",
+    "static/js/2.4703f18b.chunk.js.map": "https://meekimobile.github.io/csb-opf02/static/js/2.4703f18b.chunk.js.map",
+    "index.html": "https://meekimobile.github.io/csb-opf02/index.html",
+    "static/css/2.d9d55127.chunk.css.map": "https://meekimobile.github.io/csb-opf02/static/css/2.d9d55127.chunk.css.map",
+    "static/css/main.32c58eb3.chunk.css.map": "https://meekimobile.github.io/csb-opf02/static/css/main.32c58eb3.chunk.css.map",
+    "static/js/2.4703f18b.chunk.js.LICENSE.txt": "https://meekimobile.github.io/csb-opf02/static/js/2.4703f18b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb8d99d8.js",
+    "static/css/2.d9d55127.chunk.css",
+    "static/js/2.4703f18b.chunk.js",
+    "static/css/main.32c58eb3.chunk.css",
+    "static/js/main.865cbeb0.chunk.js"
+  ]
+}
